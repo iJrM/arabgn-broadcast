@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
   const bot = new Discord.Client();
       bot.on('ready', () => {
-        bot.user.setGame(`ArabGN.com`,'https://www.twitch.tv/ArabGN');
+        bot.user.setGame(`M.A 🖤`,'https://www.twitch.tv/jrm4');
           console.log('Im Ready!');
   
         });
